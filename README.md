@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jabu-Meki
 - 👀 I’m interested in MERN software development
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning React
 - 📫 How to reach me jabu24meki@gmail.com
 
 <!---
