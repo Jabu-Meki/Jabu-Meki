@@ -40,7 +40,7 @@ I don't build apps. I build guardrails.
 
 | Certification | Status |
 | :--- | :--- |
-| AWS Solutions Architect Associate (SAA-C03) | Studying |
+| AWS Solutions Architect Associate (SAA-C03) | Certified |
 | FinOps Certified Practitioner | Target 2026 |
 
 ---
